@@ -1,0 +1,1 @@
+class dao : ArrayList<daoItem>()

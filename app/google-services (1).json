@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "567235541870",
+    "project_id": "flipr-fast-food-70046",
+    "storage_bucket": "flipr-fast-food-70046.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567235541870:android:eca34432efdf051ec21f7f",
+        "android_client_info": {
+          "package_name": "com.example.fliprfastfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8gD8eB-pDl2IPpJzb1Bw46fKw0S9BqTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
