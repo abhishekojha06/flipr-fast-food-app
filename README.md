@@ -2,21 +2,55 @@
 
 **Flipr Fast Food** is an Android app designed to provide users with an easy and fast way to order food. With features like browsing food items, customizing orders, and secure payment options, it ensures a smooth and convenient experience for fast food lovers.
 
+##Feature like login with signup and login with email Firebase use
+![Firebase](screenshots/firebase.jpg)
+
+
+**Only valid email can signup
+##(abc@flipr.ai) , password (More Than 8 Char.)
+![Email Validation](screenshots/Emailvalidation.jpg)
+
+
+**For Api Retrofit is used**
+![Retrofit](screenshots/Retrofit.jpg)
+
+
+
+
 ## Screenshots
 
 Here are some screenshots of the app:
 
-![Screenshot 1](screenshots/IMG-20241214-WA0009.jpg)
-![Screenshot 2](screenshots/IMG-20241214-WA0010.jpg)
-![Screenshot 3](screenshots/IMG-20241214-WA0011.jpg)
-![Screenshot 4](screenshots/IMG-20241214-WA0012.jpg)
-![Screenshot 5](screenshots/IMG-20241214-WA0013.jpg)
-![Screenshot 6](screenshots/IMG-20241214-WA0014.jpg)
+**Initial Apk Installation in device**
+![Apk Installation](screenshots/IMG-20241214-WA0012.jpg)
+
+
+**This is Splash Screen**
+![Splash Screen](screenshots/IMG-20241214-WA0021.jpg)
+
+
+**This is welcome page.**
+![Welcome Page](screenshots/IMG-20241214-WA0013.jpg)
+
+
+**This is Home Page**
+![Home Page](screenshots/IMG-20241214-WA0017.jpg)
+
+
+**This Is login Pagee with Toast messege show that email can not be Empty**
+![Login Page](screenshots/IMG-20241214-WA0009.jpg)
+
+
+**This is SignUp Page**
+![Signup Page](screenshots/IMG-20241214-WA0010.jpg)
+
+
+
+
 
 
 shots of the app at different stages:
-
-![Screenshot 1](screenshots/IMG-20241214-WA0009.jpg)  
+ 
 *Browse Food Items*
 
 ---
